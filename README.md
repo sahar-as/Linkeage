@@ -3,7 +3,7 @@ Linkage is a sample of cloud programming, implemented in Java and using Firebase
 In the Contact menu, you can see all your contact members who installed this application and you are able to send them a message. 
 In the Create Group menu, you can create a new group and add people to it, with the ability to choose a name and picture for it.
 Here is some pictures related to the Linkage application:
-*
+\n
 ![Screenshot_1](https://user-images.githubusercontent.com/63088252/161236748-3c1d0520-ff25-4880-967e-c975c2ce6627.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/63088252/161236753-340f7ab3-296e-4181-8530-e0be148540b4.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/63088252/161236755-b8332e67-564b-4d02-8796-684750315797.png)
